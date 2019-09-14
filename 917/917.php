@@ -1,26 +1,19 @@
 <!DOCTYPE html>
 
-<html>
+<html lang="en">
 
     <head>
-        <title></title>
+        <title> PTW1 </title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
         <link href="css/animate.min.css" rel="stylesheet" type="text/css" />
         <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
-        <?php
-        if (!class_exists('lessc')) {
-            include ('./libs/lessc.inc.php');
-        }
-        $less = new lessc;
-        $less->compileFile('less/type-1320.less', 'css/type-1320.css');
-        ?>
         <link href="css/type-1320.css" rel="stylesheet" type="text/css" />
 
-        <script src="js/jquery.min.js" type="text/javascript"></script>
-        <script src="js/owl.carousel.min.js" type="text/javascript"></script>
-        <script src="js/bootstrap.min.js" type="text/javascript"></script>
+        <script src="js/jquery.min.js"></script>
+        <script src="js/owl.carousel.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
 
     </head>
 

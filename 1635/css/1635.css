@@ -1,66 +1,66 @@
-.type-1986 .viewmode {
+.type-1635 .viewmode {
   margin-top: 50px;
 }
-.type-1986 .container {
+.type-1635 .container {
   width: 1250px;
 }
-.type-1986 .shop {
+.type-1635 .shop {
   text-align: center;
   padding-bottom: 80px;
   padding-top: 20px;
   background-color: #f9f9f9;
 }
-.type-1986 .shop h1 {
+.type-1635 .shop h1 {
   font-size: 52px;
   color: #000000;
   font-family: UTM Androgyne;
 }
-.type-1986 .shop div {
+.type-1635 .shop div {
   font-size: 15px;
   padding-top: 10px;
   color: #c2baba;
 }
-.type-1986 .shop div a {
+.type-1635 .shop div a {
   color: #c2baba;
 }
-.type-1986 .shop div a:hover {
+.type-1635 .shop div a:hover {
   color: #ff8969;
 }
-.type-1986 .shop span:before {
+.type-1635 .shop span:before {
   content: "/";
 }
-.type-1986 .action-right {
+.type-1635 .action-right {
   margin-left: auto;
 }
-.type-1986 .shop-action-inner {
+.type-1635 .shop-action-inner {
   color: #686868;
   margin-bottom: 30px;
   padding-bottom: 8px;
   border-bottom: 1px solid #ececec;
 }
-.type-1986 .fa-lg {
+.type-1635 .fa-lg {
   color: #000;
   padding-left: 10px;
   font-size: 1.5em;
   line-height: 1em;
   vertical-align: -15%;
 }
-.type-1986 .fa-th-list {
+.type-1635 .fa-th-list {
   color: #777777;
 }
-.type-1986 .action-right form {
+.type-1635 .action-right form {
   float: left;
   margin-right: 35px;
   font-size: 14px;
 }
-.type-1986 .flex {
+.type-1635 .flex {
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
 }
-.type-1986 .hamburger-inner:after {
+.type-1635 .hamburger-inner:after {
   content: '';
   width: 17px;
   height: 2px;
@@ -69,7 +69,7 @@
   top: -5px;
   margin-top: 10px;
 }
-.type-1986 .hamburger-inner:before {
+.type-1635 .hamburger-inner:before {
   content: '';
   width: 17px;
   height: 2px;
@@ -77,7 +77,7 @@
   position: absolute;
   top: -5px;
 }
-.type-1986 .hamburger-inner {
+.type-1635 .hamburger-inner {
   margin-left: 10px;
   margin-top: 262;
   cursor: pointer;
@@ -91,7 +91,7 @@
   -o-transition: background 0.01s ease 0.2s;
   transition: background 0.01s ease 0.2s;
 }
-.type-1986 .action-right select {
+.type-1635 .action-right select {
   color: black;
   display: inline-block;
   border: none;
@@ -107,14 +107,14 @@
   cursor: pointer;
   vertical-align: middle;
 }
-.type-1986 .view {
+.type-1635 .view {
   margin-top: 70px;
 }
 @media (max-width: 768px) {
-  .type-1986 .shop-action {
+  .type-1635 .shop-action {
     margin-left: 20px;
   }
-  .type-1986 .action-right {
+  .type-1635 .action-right {
     margin-left: 20px;
   }
 }

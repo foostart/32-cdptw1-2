@@ -1,8 +1,4 @@
-<!DOCTYPE html>
 
-<html>
-
-    <body>
         <div class="type-917">
             <div id="first-slider">
                 <div id="carousel-example-generic" class="carousel slide carousel-fade">
@@ -124,6 +120,3 @@
 
 
         </div> 
-    </body>
-
-</html>

@@ -1,0 +1,120 @@
+.type-1986 .viewmode {
+  margin-top: 50px;
+}
+.type-1986 .container {
+  width: 1250px;
+}
+.type-1986 .shop {
+  text-align: center;
+  padding-bottom: 80px;
+  padding-top: 20px;
+  background-color: #f9f9f9;
+}
+.type-1986 .shop h1 {
+  font-size: 52px;
+  color: #000000;
+  font-family: UTM Androgyne;
+}
+.type-1986 .shop div {
+  font-size: 15px;
+  padding-top: 10px;
+  color: #c2baba;
+}
+.type-1986 .shop div a {
+  color: #c2baba;
+}
+.type-1986 .shop div a:hover {
+  color: #ff8969;
+}
+.type-1986 .shop span:before {
+  content: "/";
+}
+.type-1986 .action-right {
+  margin-left: auto;
+}
+.type-1986 .shop-action-inner {
+  color: #686868;
+  margin-bottom: 30px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #ececec;
+}
+.type-1986 .fa-lg {
+  color: #000;
+  padding-left: 10px;
+  font-size: 1.5em;
+  line-height: 1em;
+  vertical-align: -15%;
+}
+.type-1986 .fa-th-list {
+  color: #777777;
+}
+.type-1986 .action-right form {
+  float: left;
+  margin-right: 35px;
+  font-size: 14px;
+}
+.type-1986 .flex {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+}
+.type-1986 .hamburger-inner:after {
+  content: '';
+  width: 17px;
+  height: 2px;
+  background: #000000;
+  position: absolute;
+  top: -5px;
+  margin-top: 10px;
+}
+.type-1986 .hamburger-inner:before {
+  content: '';
+  width: 17px;
+  height: 2px;
+  background: #000000;
+  position: absolute;
+  top: -5px;
+}
+.type-1986 .hamburger-inner {
+  margin-left: 10px;
+  margin-top: 262;
+  cursor: pointer;
+  position: absolute;
+  top: 15px;
+  width: 17px;
+  height: 2px;
+  background: #000;
+  -webkit-transition: background 0.01s ease 0.2s;
+  -moz-transition: background 0.01s ease 0.2s;
+  -o-transition: background 0.01s ease 0.2s;
+  transition: background 0.01s ease 0.2s;
+}
+.type-1986 .action-right select {
+  color: black;
+  display: inline-block;
+  border: none;
+  border-bottom: 1px solid #ebebeb;
+  width: auto;
+  background-position: 100% 40%;
+  padding-left: 2px;
+  padding-right: 20px;
+  padding-bottom: 4px;
+  height: auto;
+  font-size: 14px;
+  line-height: 24px;
+  cursor: pointer;
+  vertical-align: middle;
+}
+.type-1986 .view {
+  margin-top: 70px;
+}
+@media (max-width: 768px) {
+  .type-1986 .shop-action {
+    margin-left: 20px;
+  }
+  .type-1986 .action-right {
+    margin-left: 20px;
+  }
+}

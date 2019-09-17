@@ -17,6 +17,5 @@
         <script src="js/bootstrap.min.js" type="text/javascript"></script>
     </head>
     <body>
-         <?php include '../1988/1988-content.php'; ?>
     </body>
 </html>

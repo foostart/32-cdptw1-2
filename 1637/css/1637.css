@@ -1,24 +1,25 @@
-.type-1988 .container {
+.type-1637 .container {
   width: 1250px;
 }
-.type-1988 .kj .container {
+.type-1637 .kj .container {
   background-size: cover;
 }
-.type-1988 .Sub .Subscribe {
+.type-1637 .Sub .Subscribe {
   padding-top: 80px;
   text-align: center;
+  margin-butom: -50px;
 }
-.type-1988 .Sub .Subscribe p {
+.type-1637 .Sub .Subscribe p {
   color: #c0c0c0;
 }
-.type-1988 h2 {
+.type-1637 h2 {
   color: white;
 }
-.type-1988 .bor {
+.type-1637 .bor {
   padding-top: 20px;
   overflow: hidden;
 }
-.type-1988 .bor input {
+.type-1637 .bor input {
   border: 1px solid #424242;
   border-radius: 40px;
   height: 50px;
@@ -28,7 +29,7 @@
   color: white;
   border: none;
 }
-.type-1988 .bor button {
+.type-1637 .bor button {
   border: 1px solid #424242;
   border-radius: 40px;
   height: 50px;
@@ -40,89 +41,89 @@
   margin-left: -100px;
   font-weight: 900;
 }
-.type-1988 .bor button:hover {
+.type-1637 .bor button:hover {
   background: #303031;
   font-weight: 500;
 }
-.type-1988 .cort {
+.type-1637 .cort {
   margin-top: 50px;
   border: 1px solid grey;
   margin-bottom: 50px;
 }
-.type-1988 .About a {
+.type-1637 .About a {
   text-decoration: none;
   color: #7b7b7b;
 }
-.type-1988 .About h4 {
+.type-1637 .About h4 {
   font-weight: 900;
   color: white;
 }
-.type-1988 .About p {
+.type-1637 .About p {
   color: #c0c0c0;
 }
-.type-1988 .About i {
+.type-1637 .About i {
   color: white;
 }
-.type-1988 .Products h4 {
+.type-1637 .Products h4 {
   font-weight: 900;
   color: white;
 }
-.type-1988 .Products p {
+.type-1637 .Products p {
   font-weight: 600;
   color: white;
 }
-.type-1988 .Products p:hover {
+.type-1637 .Products p:hover {
   color: green;
 }
-.type-1988 .Our h4 {
+.type-1637 .Our h4 {
   font-weight: 900;
   color: white;
 }
-.type-1988 .Our p {
+.type-1637 .Our p {
   font-weight: 600;
   color: white;
 }
-.type-1988 .Our p:hover {
+.type-1637 .Our p:hover {
   color: green;
 }
-.type-1988 .Instagram h4 {
+.type-1637 .Instagram h4 {
   font-weight: 900;
   color: white;
 }
-.type-1988 .Instagram p {
+.type-1637 .Instagram p {
   padding-top: 10px;
   font-weight: 600;
   color: white;
 }
-.type-1988 .Instagram p:hover {
+.type-1637 .Instagram p:hover {
   color: green;
 }
-.type-1988 .Instagram img {
+.type-1637 .Instagram img {
   width: 100px;
   height: 100px;
   padding: 5px 0;
 }
-.type-1988 .Instagram img:hover {
+.type-1637 .Instagram img:hover {
   -webkit-transition: all 0.7s ease;
   -transiton: all 0.7s ease;
   -webkit-transform: scale(1.3);
   transform: scale(1.3);
   color: grey;
 }
-.type-1988 .Instagram p {
+.type-1637 .Instagram p {
   color: white;
 }
-.type-1988 .cart {
+.type-1637 .cart {
   border-bottom: 1px solid gray;
   padding-top: 20px;
 }
-.type-1988 .footer1 {
+.type-1637 .footer1 {
   padding-top: 50px;
 }
-.type-1988 .footer1 p {
+.type-1637 .footer1 p {
   color: #c0c0c0;
 }
-.type-1988 .footer1 .col-md-4 i {
+.type-1637 .footer1 .col-md-4 i {
   width: 36px;
   height: 36px;
   background: none;
@@ -134,16 +135,16 @@
   color: #999999;
   border: solid 2px #777777;
 }
-.type-1988 .footer1 .col-md-4 i:hover {
+.type-1637 .footer1 .col-md-4 i:hover {
   color: green;
 }
-.type-1988 .footer1 .back {
+.type-1637 .footer1 .back {
   padding-top: 60px;
   position: fixed;
   right: 55px;
   bottom: 25px;
 }
-.type-1988 .footer1 .back a {
+.type-1637 .footer1 .back a {
   background: #333;
   color: white;
   width: 50px;
@@ -153,7 +154,7 @@
   text-align: center;
   text-decoration: none;
 }
-.type-1988 .footer1 .back a i {
+.type-1637 .footer1 .back a i {
   border-radius: none;
   border: none;
 }

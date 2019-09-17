@@ -1,23 +1,6 @@
-<html>
-   <head>
-      <title>Module 1988</title>
-      <meta charset="UTF-8">
-      <meta name="viewport" content="user-scalable=0, initial-scale=1.0">
-      <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-      <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
-      <?php
-         if (!class_exists('lessc')) {
-             include ('./libs/lessc.inc.php');
-         }
-         $less = new lessc;
-         $less->compileFile('less/1988.less', 'css/1988.css');
-         ?>
-      <link href="css/1987.css" rel="stylesheet" type="text/css" />
-      <script src="js/jquery-2.1.4.min.js" type="text/javascript"></script>
-      <script src="js/bootstrap.min.js" type="text/javascript"></script>
-   </head>
-   <body>
-      <section class="type-1988">
+
+
+      <section class="type-1637">
         <!-- Subscribe Newsletter -->
         <footer class="kj" style="background-image: url('images/bk.jpg')">
 	<div class="container">
@@ -41,13 +24,13 @@
 				<div class="About">
 					<h4>About Us</h4><br>
 					<p>The best way to remember a memorable event is to capture it. Enter cameras. Flipkart features a wide selection. </p>
-					<a href="#"><i class="fa fa-map-marker lg"></i>
+                                        <a href="#" style="font-size: 15px; color: #6f5a38"><i class="fa fa-map-marker lg"></i>
 						Colora - Responsive Prestashop Theme <br>
 						123 Main Street, Anytown, CA 12345 USA.<br>
-						United States</a><br>
-					<a href="#"><i class="fa fa-mobile lg"></i>
+                                                United States</a><br>
+					<a href="#" style="font-size: 15px; color: #6f5a38"><i class="fa fa-mobile lg"></i>
 						 +88 123 456 7899 </a><br>
-					<a href="#"><i class="fa fa-envelope-o lg"></i>
+					<a href="#" style="font-size: 15px; color: #6f5a38"><i class="fa fa-envelope-o lg"></i>
 						  demo@posthemes.com </a>
 				</div>
 			</div>
@@ -119,5 +102,3 @@
 	
 </footer>
       </section>
-   </body>
-</html>

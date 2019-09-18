@@ -1,28 +1,10 @@
-<html>
-   <head>
-      <title>Module 1989</title>
-      <meta charset="UTF-8">
-      <meta name="viewport" content="user-scalable=0, initial-scale=1.0">
-      <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-      <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
-      <?php
-         if (!class_exists('lessc')) {
-             include ('./libs/lessc.inc.php');
-         }
-         $less = new lessc;
-         $less->compileFile('less/1989.less', 'css/1989.css');
-         ?>
-      <link href="css/1989.css" rel="stylesheet" type="text/css" />
-      <script src="js/jquery-2.1.4.min.js" type="text/javascript"></script>
-      <script src="js/bootstrap.min.js" type="text/javascript"></script>
-   </head>
-   <body>
-      <section class="type-1989">
+
+      <div class="type-1638">
          <section class="container site-content">
             <div class="row">
                <div class="threecol column col-md-4 col-xs-12">
                   <div class="section-title">
-                     <h1>Travel Guide</h1>
+                     <h2>Travel Guide</h2>
                   </div>
                   <div class="featured-blog">
                      <article class="post-112 post type-post status-publish format-standard has-post-thumbnail hentry category-guides tag-amet tag-dolor tag-lorem">
@@ -45,7 +27,7 @@
                </div>
                <div class="col-md-4">
                   <div class="section-title">
-                     <h1>Gallery</h1>
+                     <h2>Gallery</h2>
                   </div>
                   <div class="items-grid">
                      <div class="column gallery-item fourcol ">
@@ -178,32 +160,5 @@
                </div>
                <div class="clear"></div>
             </div>
-            
          </section>
-           <!-- footer -->
-             <footer class="footer" style="background: url('images/site_bg.jpg')">
-                 <div class="container">
-		<div class="footer1">
-			<div class="row">
-			<div class="col-md-8 col-xs-12">
-				<p>Midway Theme © 2019</p>
-			</div>
-			<div class="col-md-4 col-xs-12">
-                            <div class="menu">
-                            <a href="#">Home</a>
-                            <a href="#">Services</a>
-                            <a href="#">Tours</a>
-                            <a href="#">Blog</a>
-                            <a href="#">Contact</a>
-                            </div>
-				
-			</div>
-		</div>
-			
-		</div>
-
-	</div>
-             </footer>
-      </section>
-   </body>
-</html>
+      </div>

@@ -29,9 +29,6 @@
 .type-1635 .shop span:before {
   content: "/";
 }
-.type-1635 .action-right {
-  margin-left: auto;
-}
 .type-1635 .shop-action-inner {
   color: #686868;
   margin-bottom: 30px;
@@ -53,44 +50,6 @@
   margin-right: 35px;
   font-size: 14px;
 }
-.type-1635 .flex {
-  display: -webkit-box;
-  display: -moz-box;
-  display: -ms-flexbox;
-  display: -webkit-flex;
-  display: flex;
-}
-.type-1635 .hamburger-inner:after {
-  content: '';
-  width: 17px;
-  height: 2px;
-  background: #000000;
-  position: absolute;
-  top: -5px;
-  margin-top: 10px;
-}
-.type-1635 .hamburger-inner:before {
-  content: '';
-  width: 17px;
-  height: 2px;
-  background: #000000;
-  position: absolute;
-  top: -5px;
-}
-.type-1635 .hamburger-inner {
-  margin-left: 10px;
-  margin-top: 262;
-  cursor: pointer;
-  position: absolute;
-  top: 15px;
-  width: 17px;
-  height: 2px;
-  background: #000;
-  -webkit-transition: background 0.01s ease 0.2s;
-  -moz-transition: background 0.01s ease 0.2s;
-  -o-transition: background 0.01s ease 0.2s;
-  transition: background 0.01s ease 0.2s;
-}
 .type-1635 .action-right select {
   color: black;
   display: inline-block;
@@ -107,14 +66,11 @@
   cursor: pointer;
   vertical-align: middle;
 }
-.type-1635 .view {
-  margin-top: 70px;
+.viewmode {
+  padding-left: 150px;
+  float: left;
 }
-@media (max-width: 768px) {
-  .type-1635 .shop-action {
-    margin-left: 20px;
-  }
-  .type-1635 .action-right {
-    margin-left: 20px;
-  }
+.action-right {
+  float: right;
+  padding-right: 150px;
 }

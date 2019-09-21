@@ -111,10 +111,6 @@
   webkit-box-shadow: 0 0 5px rgba(0,0,0,0.3);
   box-shadow: 0 0 5px rgba(0,0,0,0.3);
 }
-.type-1638 .featured-image:hover {
-  ursor: pointer;
-  opacity: 0.5;
-}
 .type-1638 .featured-image:hover .featured-image-caption {
   bottom: 0 !important;
   background: #909ea4;

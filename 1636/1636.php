@@ -1,6 +1,7 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
     <head>
-        <title>Module 1987</title>
+        <title>Module 1636</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="user-scalable=0, initial-scale=1.0">
         <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
@@ -10,13 +11,13 @@
             include ('./libs/lessc.inc.php');
         }
         $less = new lessc;
-        $less->compileFile('less/1987.less', 'css/1987.css');
+        $less->compileFile('less/1636.less', 'css/1636.css');
         ?>
-        <link href="css/1987.css" rel="stylesheet" type="text/css" />
-        <script src="js/jquery-2.1.4.min.js" type="text/javascript"></script>
-        <script src="js/bootstrap.min.js" type="text/javascript"></script>
+        <link href="css/1636.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery-2.1.4.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
     </head>
     <body>
-         <?php include '../1987/1987-content.php'; ?>
+         <?php include '../1636/1636-content.php'; ?>
     </body>
 </html>

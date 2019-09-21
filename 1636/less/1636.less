@@ -1,7 +1,7 @@
 
 @padding-bottom:12px;
 
-.type-1987{
+.type-1636{
    /*home*/
 .home{
 	padding-top: 30px;
@@ -26,12 +26,37 @@ h1{
 /*end*/
 /*Vegetable1*/
 .table{
+    .dropdown
+    {
+        list-style-type: none;
+
+        a{
+            text-decoration: none;
+            display: block;
+        }
+        .down
+        {
+            list-style-type: none;
+            display: none;
+        }
+        a:hover
+        {
+            color: green;
+        }
+        li:hover .down
+        {
+            display: block;
+        }
+    }
+
+
     h4{
 	color: #468a41;
     }
-    .icon {
+    .drop {
+        cursor: pointer;
         i{
-	color: black;
+	   color: black;
         float: right;
         
         }
@@ -202,20 +227,15 @@ h1{
 	float: left;
 }
 
-.text{
-	border: 1px solid grey;
-	padding: 20px 20px;
-	background: rgb(222,222,221);
-        h4{
-	display: inline;
-	padding: 0px 10px;
-        }
-        p{
-	display: inline;
+.form{
+	border: 2px solid grey;
+    height: 70px;
 	background: white;
-	padding: 15px 15px;
-        }
+    line-height: 70px;
+    padding-left: 30px;
+    opacity: 0.8;
 }
+
 .veg{
     .col-md-3 {
         button{
@@ -636,4 +656,8 @@ h1{
             }
         }
     } 
+}
+.btndrop
+{
+    background: none;
 }

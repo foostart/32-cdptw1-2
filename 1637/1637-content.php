@@ -1,7 +1,4 @@
-
-
-      <section class="type-1637">
-        <!-- Subscribe Newsletter -->
+     <section class="type-1637">
         <footer class="kj" style="background-image: url('images/bk.jpg')">
 	<div class="container">
 
@@ -13,9 +10,9 @@
 				<div class="bor">
 				<input class="NT" type="text" value placeholder="Your email Address...">
 				<button>Submit</button>
+				</div>
 			</div>
 		</div>
-	</div>
 		<!-- end -->
 		<div class="cort"></div>
 		<!-- cot -->
@@ -25,8 +22,8 @@
 					<h4>About Us</h4><br>
 					<p>The best way to remember a memorable event is to capture it. Enter cameras. Flipkart features a wide selection. </p>
                                         <a href="#" style="font-size: 15px; color: #6f5a38"><i class="fa fa-map-marker lg"></i>
-						Colora - Responsive Prestashop Theme <br>
-						123 Main Street, Anytown, CA 12345 USA.<br>
+						Colora - Responsive Prestashop Theme
+						123 Main Street, Anytown, CA 12345 USA.
                                                 United States</a><br>
 					<a href="#" style="font-size: 15px; color: #6f5a38"><i class="fa fa-mobile lg"></i>
 						 +88 123 456 7899 </a><br>
@@ -64,10 +61,6 @@
 					<img src="images/3.jpg" alt="">
 					<img src="images/4.jpg" alt="">
 					<img src="images/5.jpg" alt="">
-					<img src="images/6.jpg" alt="">
-					<img src="images/7.jpg" alt="">
-					<img src="images/8.jpg" alt="">
-
 					<p>Follow our instagram</p>
 				</div>
 			</div>

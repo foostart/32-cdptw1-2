@@ -1,4 +1,8 @@
+<!DOCTYPE html>
 
+<html>
+
+    <body>
         <div class="type-917">
             <div id="first-slider">
                 <div id="carousel-example-generic" class="carousel slide carousel-fade">
@@ -17,13 +21,13 @@
                                 <div class="container">
 
                                     <div class="col-md-9 text-left">
-                                        <h1 data-animation="animated bounceInDown">Tennis</h1>
+                                        <h1 data-animation="animated bounceInDown" >Tennis</h1>
                                         <h3 data-animation="animated bounceInDown">sport for  </h3>
-                                        <h3 data-animation="animated bounceInDown"> healthy lifetime </h3>
-                                        <h4 data-animation="animated bounceInUp">like tennis at any lever ,tennis at an adult is fun,social,competitive,healthy</h4>
+                                        <h3 data-animation="animated bounceInDown" > healthy lifetime </h3>
+                                        <h4 data-animation="animated bounceInUp" >like tennis at any lever ,tennis at an adult is fun,social,competitive,healthy</h4>
                                         <h4 data-animation="animated bounceInUp">it can truly be anything you wan it to be</h4>
 
-                                        <h5 data-animation="animated bounceInUp">Learn more</h5>
+                                        <h5 data-animation="animated bounceInUp" style="cursor: pointer;">Learn more</h5>
 
                                     </div>
 
@@ -42,7 +46,7 @@
                                         <h4 data-animation="animated bounceInUp">Browse our website to find a certified tennis teacher,sign up</h4>
                                         <h4 data-animation="animated bounceInUp">for our local tournaments and games and raise your level</h4>
 
-                                        <h6 data-animation="animated bounceInUp">Learn more</h6>
+                                        <h6 data-animation="animated bounceInUp" style="cursor: pointer;">Learn more</h6>
 
                                     </div>
                                 </div>
@@ -59,7 +63,7 @@
                                         <h4 data-animation="animated bounceInUp">and making new friends along the way,is always fun,and is something</h4>
                                         <h4 data-animation="animated bounceInUp">that tennis is great at providing.</h4>
 
-                                        <h5 data-animation="animated bounceInUp">Learn more</h5>
+                                        <h5 data-animation="animated bounceInUp" style="cursor: pointer;">Learn more</h5>
 
                                     </div>
                                 </div>
@@ -120,3 +124,6 @@
 
 
         </div> 
+    </body>
+
+</html>

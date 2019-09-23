@@ -1,12 +1,10 @@
 
-<html>
-   <body>
-      <section class="type-1638">
+      <div class="type-1638">
          <section class="container site-content">
             <div class="row">
                <div class="threecol column col-md-4 col-xs-12">
                   <div class="section-title">
-                     <h1>Travel Guide</h1>
+                     <h2>Travel Guide</h2>
                   </div>
                   <div class="featured-blog">
                      <article class="post-112 post type-post status-publish format-standard has-post-thumbnail hentry category-guides tag-amet tag-dolor tag-lorem">
@@ -29,7 +27,7 @@
                </div>
                <div class="col-md-4">
                   <div class="section-title">
-                     <h1>Gallery</h1>
+                     <h2>Gallery</h2>
                   </div>
                   <div class="items-grid">
                      <div class="column gallery-item fourcol ">
@@ -164,6 +162,4 @@
             </div>
             
          </section>
-      </section>
-   </body>
-</html>
+      </div>

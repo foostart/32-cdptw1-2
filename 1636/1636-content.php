@@ -52,7 +52,7 @@
                            </div>
                            <div class="col-md-6">
                            <span>Sort by:</span>
-                           <select style="padding:5px 100px 5px 0px; border-radius: 5px; ">
+                           <select style="padding:5px 100px 5px 0px; border-radius: 5px; cursor: pointer; ">
                               <option> select 1</option>
                               <option> select 2</option>
                               <option> select 3</option>
@@ -74,19 +74,6 @@
                         <div class="pc">
                            <h4>Filter By</h4>
                            <button>X  clear all</button><br>
-                           <h4>Price</h4>
-                           <a href="">
-                              <div class="round"><i class="fa fa-chevron-down "></i></div>
-                              <h5>$60.00-$62.00(2)</h5>
-                           </a>
-                           <a href="">
-                              <div class="round"><i class="fa fa-chevron-down"></i></div>
-                              <h5>$80.00-$83.00(4)</h5>
-                           </a>
-                           <a href="">
-                              <div class="round"><i class="fa fa-chevron-down"></i></div>
-                              <h5>$100.00-$104.00(4)</h5>
-                           </a>
                            <h4>Size</h4>
                            <a href="">
                               <div class="square"></div>
@@ -131,12 +118,9 @@
                      </div>
                      <div class="col-md-3">
                         <div class="pc1">
-                           <img src="images/beta-la-blackwarm.jpg" alt="1" >
+                           <img src="images/beta-la-blackwarm.jpg" alt="" >
                            <h4>Beta La Blackwarm</h4>
                            <h3>$120.00</h3>
-                           <ul class="product-flag">
-                            <li class="new1"><span>New</span></li>
-                            </ul>
                            <img src="images/freematex-freshdox.jpg" alt="">
                            <h4>FreeMatex Freshdox</h4>
                            <h3>$80.00</h3>

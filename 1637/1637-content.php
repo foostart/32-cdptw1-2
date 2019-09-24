@@ -16,8 +16,7 @@
 		<!-- end -->
 		<div class="cort"></div>
 		<!-- cot -->
-		<div class="col-md-12">
-			<div class="col-md-3">
+			<div class="col-md-3 col-sm-6 col-xs-12">
 				<div class="About">
 					<h4>About Us</h4><br>
 					<p>The best way to remember a memorable event is to capture it. Enter cameras. Flipkart features a wide selection. </p>
@@ -31,7 +30,7 @@
 						  demo@posthemes.com </a>
 				</div>
 			</div>
-			<div class="col-md-2">
+			<div class="col-md-2 col-sm-6 col-xs-12">
 				<div class="Products">
 					<h4>Products</h4><br>
 					<p>Delivery </p>
@@ -42,7 +41,7 @@
 					<p>Sitemap</p>
 				</div>
 			</div>
-			<div class="col-md-2">
+			<div class="col-md-2 col-sm-3 col-xs-12">
 				<div class="Our ">
 					<h4>Our Company</h4><br>
 					<p>Delivery </p>
@@ -53,7 +52,7 @@
 					<p>Login</p>
 				</div>
 			</div>
-			<div class="col-md-5">
+			<div class="col-md-5 col-sm-9 col-xs-12">
 				<div class="Instagram ">
 					<h4>Instagram</h4><br>
 					<img src="images/1.jpg" alt="">
@@ -64,7 +63,6 @@
 					<p>Follow our instagram</p>
 				</div>
 			</div>
-		</div>
 	</div>
 	<!-- end -->
 	<div class="container">

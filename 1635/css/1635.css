@@ -1,9 +1,6 @@
 .type-1635 .viewmode {
   margin-top: 50px;
 }
-.type-1635 .container {
-  width: 1250px;
-}
 .type-1635 .shop {
   text-align: center;
   padding-bottom: 80px;
@@ -46,9 +43,10 @@
   color: #777777;
 }
 .type-1635 .action-right form {
-  float: left;
-  margin-right: 35px;
+  float: right;
   font-size: 14px;
+  padding-top: 50px;
+  padding-right: 50px;
 }
 .type-1635 .action-right select {
   color: black;
@@ -67,10 +65,5 @@
   vertical-align: middle;
 }
 .viewmode {
-  padding-left: 150px;
-  float: left;
-}
-.action-right {
-  float: right;
-  padding-right: 150px;
+  padding-left: 50px;
 }

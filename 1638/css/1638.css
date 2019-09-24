@@ -1,15 +1,5 @@
-.type-1638 .row {
-  width: 1250px;
-  margin: 0 auto;
-  position: relative;
-  z-index: 100;
-}
-.type-1638 .row .threecol {
-  width: 25%;
-  padding-left: 20px;
-}
-.type-1638 .row .col-md-4 {
-  width: 30%;
+.type-1638 {
+  text-align: center;
 }
 .type-1638 h1 {
   padding-bottom: 20px;
@@ -18,12 +8,6 @@
   overflow: hidden;
   margin-bottom: 0.8em;
   padding-bottom: 0.6em;
-}
-.type-1638 .column {
-  margin-right: 1.7%;
-  float: left;
-  min-height: 1px;
-  margin-bottom: 3.8%;
 }
 .type-1638 .featured-image-caption {
   display: block;

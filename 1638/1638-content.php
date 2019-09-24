@@ -1,8 +1,7 @@
-
       <div class="type-1638">
-         <section class="container site-content">
+         <section class="container">
             <div class="row">
-               <div class="threecol column col-md-4 col-xs-12">
+               <div class="col-md-4 col-sm-6 col-xs-12">
                   <div class="section-title">
                      <h2>Travel Guide</h2>
                   </div>
@@ -25,7 +24,7 @@
                      </article>
                   </div>
                </div>
-               <div class="col-md-4">
+               <div class="col-md-4 col-sm-6 col-xs-12">
                   <div class="section-title">
                      <h2>Gallery</h2>
                   </div>
@@ -91,40 +90,10 @@
                         </div>
                         <div class="block-background"></div>
                      </div>
-                     <div class="column gallery-item fourcol ">
-                        <div class="featured-image">
-                           <a href="#" class="colorbox  cboxElement" data-group="gallery-107" title="">
-                           <img width="150" height="100" src="https://demo.themex.co/midway/wp-content/uploads/2012/11/image_9.jpg" class="attachment-preview wp-post-image" alt="image_9">		</a>
-                           <a class="featured-image-caption hidden-caption" href="#">
-                              <h6>Stonehenge 2011</h6>
-                           </a>
-                        </div>
-                        <div class="hidden">					
-                           <a class="colorbox cboxElement" href="#" data-group="gallery-107" title=""></a>
-                           <a class="colorbox cboxElement" href="#" data-group="gallery-107" title=""></a>
-                           <a class="colorbox cboxElement" href="#" data-group="gallery-107" title=""></a>
-                        </div>
-                        <div class="block-background"></div>
-                     </div>
-                     <div class="column gallery-item fourcol last">
-                        <div class="featured-image">
-                           <a href="#" class="colorbox  cboxElement" data-group="gallery-110" title="">
-                           <img width="150" height="100" src="https://demo.themex.co/midway/wp-content/uploads/2012/11/image_17.jpg" class="attachment-preview wp-post-image" alt="image_17">		</a>
-                           <a class="featured-image-caption hidden-caption">
-                              <h6>Thailand 2012</h6>
-                           </a>
-                        </div>
-                        <div class="hidden">					
-                           <a class="colorbox cboxElement" href="#" data-group="gallery-110" title=""></a>
-                           <a class="colorbox cboxElement" href="#" data-group="gallery-110" title=""></a>
-                           <a class="colorbox cboxElement" href="#" data-group="gallery-110" title=""></a>
-                        </div>
-                        <div class="block-background"></div>
-                     </div>
                      <div class="clear"></div>
                   </div>
                </div>
-               <div class="col-md-4">
+               <div class="col-md-4 col-sm-6 col-xs-12">
                   <div class="widget widget-subscribe">
                      <div class="section-title">
                         <h4>Newsletter</h4>

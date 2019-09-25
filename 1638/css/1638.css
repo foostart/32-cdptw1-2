@@ -15,29 +15,19 @@
   left: 0;
   right: 0;
   bottom: 0;
-  width: 100%;
   color: #fff;
-  background: url(images/bg_black_70.png);
   z-index: 11;
   text-decoration: none;
 }
 .type-1638 .featured-image-caption h6 {
-  margin: 0;
-  padding: 0.4em 15px;
-  line-height: 1.5em;
+  display: block;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
   color: #fff;
-}
-.type-1638 .featured-image-caption .hidden-caption {
-  bottom: -2.75em;
-}
-.type-1638 .featured-image-caption h6:hover {
-  background: #909ea4;
+  z-index: 11;
   text-decoration: none;
-  -webkit-transition: all 0.7s ease;
-  -transiton: all 0.7s ease;
-  -webkit-transform: scale(1.0);
-  transform: scale(1.0);
-  color: #fff;
 }
 .type-1638 .widget-subscribe {
   margin-top: 20px;
@@ -46,7 +36,6 @@
   margin: 0;
   width: 100%;
   padding-right: 30px;
-  background: #fff url(images/subscribe_icon.png) right 10px no-repeat;
 }
 .type-1638 .widget-subscribe input[type="text"] {
   padding: 0.5em 9px;
@@ -85,15 +74,12 @@
   right: 4px;
   top: 4px;
   bottom: -4px;
-  -webkit-box-shadow: 0 0 5px rgba(0,0,0,0.3);
 }
 .type-1638 .featured-image {
   overflow: hidden;
   position: relative;
   z-index: 100;
   border: 4px solid #fff;
-  webkit-box-shadow: 0 0 5px rgba(0,0,0,0.3);
-  box-shadow: 0 0 5px rgba(0,0,0,0.3);
 }
 .type-1638 .featured-image:hover {
   ursor: pointer;
@@ -123,7 +109,6 @@
   margin-left: 110px;
   padding: 0;
   margin-top: 10px;
-  background: #f3ecf3;
   color: #777;
   text-align: center;
 }
@@ -144,23 +129,4 @@
   overflow: hidden;
   margin-bottom: 0.8em;
   padding-bottom: 0.6em;
-  background: url(images/divider.png) 0 bottom repeat-x;
-}
-.type-1638 .footer {
-  margin-top: 30px;
-  height: 80px;
-}
-.type-1638 .footer .col-md-4 {
-  margin-top: 30px;
-}
-.type-1638 .footer p {
-  margin-top: 30px;
-  color: #fff;
-}
-.type-1638 .footer a {
-  padding-right: 20px;
-  color: #fff;
-}
-.type-1638 .footer a:hover {
-  text-decoration: none;
 }

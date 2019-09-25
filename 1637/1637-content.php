@@ -30,7 +30,7 @@
 						  demo@posthemes.com </a>
 				</div>
 			</div>
-			<div class="col-md-2 col-sm-6 col-xs-12">
+			<div class="col-md-2 col-sm-6 col-xs-6">
 				<div class="Products">
 					<h4>Products</h4><br>
 					<p>Delivery </p>
@@ -41,7 +41,7 @@
 					<p>Sitemap</p>
 				</div>
 			</div>
-			<div class="col-md-2 col-sm-3 col-xs-12">
+			<div class="col-md-2 col-sm-3 col-xs-6">
 				<div class="Our ">
 					<h4>Our Company</h4><br>
 					<p>Delivery </p>

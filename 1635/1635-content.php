@@ -6,6 +6,7 @@
                   <a href="#">Shop</a>
                </div>
          </div>
+         <div class="container">
       <div class="row">
          <div class="col-md-6 col-sm-6 col-xs-6">
             <div class="viewmode">
@@ -44,6 +45,6 @@
                </form>
             </div>
          </div>	
-         <script src="js/javascript.js"></script>
+      </div>
       </div>
    </div>

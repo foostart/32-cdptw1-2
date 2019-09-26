@@ -63,6 +63,11 @@
   cursor: pointer;
   vertical-align: middle;
 }
-.viewmode {
-  padding-left: 50px;
+@media (max-width: 900px) {
+  .action-right {
+    float: left;
+  }
+  .viewmode {
+    float: left;
+  }
 }

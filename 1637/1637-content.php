@@ -30,7 +30,7 @@
 						  demo@posthemes.com </a>
 				</div>
 			</div>
-			<div class="col-md-2 col-sm-6 col-xs-6">
+			<div class="col-md-2 col-sm-3 col-xs-6">
 				<div class="Products">
 					<h4>Products</h4><br>
 					<p>Delivery </p>
@@ -52,7 +52,7 @@
 					<p>Login</p>
 				</div>
 			</div>
-			<div class="col-md-5 col-sm-9 col-xs-12">
+			<div class="col-md-5 col-sm-6 col-xs-12">
 				<div class="Instagram ">
 					<h4>Instagram</h4><br>
 					<img src="images/1.jpg" alt="">

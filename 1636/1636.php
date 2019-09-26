@@ -14,8 +14,6 @@
         $less->compileFile('less/1636.less', 'css/1636.css');
         ?>
         <link href="css/1636.css" rel="stylesheet" type="text/css" />
-        <script src="js/jquery-2.1.4.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
     </head>
     <body>
          <?php include '../1636/1636-content.php'; ?>

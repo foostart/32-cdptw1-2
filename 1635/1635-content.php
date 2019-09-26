@@ -8,9 +8,8 @@
          </div>
          <div class="container">
       <div class="row">
-         <div class="col-md-6 col-sm-6 col-xs-6">
+         <div class="col-md-6 col-sm-6 col-xs-12">
             <div class="viewmode">
-               <div class="container">
                   <div class="shop-action">
                         <div class="wc-switch flex">
                            <span class="mr_10">View mode:</span>
@@ -22,11 +21,10 @@
                            </a>
                         </div>
                   </div>
-               </div>
             </div>
          </div>
-         <div class="col-md-6 col-sm-6 col-xs-6">
-            <div class="action-right flex middle-xs">
+         <div class="col-md-6 col-sm-6 col-xs-12">
+            <div class="action-right">
                <form class="sort" method="get">
                   <span>Sort by:</span>
                   <select name="sortby">

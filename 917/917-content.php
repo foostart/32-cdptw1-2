@@ -1,5 +1,5 @@
 <div class="banner">
-    <div class="container">
+    <div class="container-fluid">
     <div class="swiper-container">
         <div class="swiper-wrapper">
             <div class="swiper-slide" id="slide-0">

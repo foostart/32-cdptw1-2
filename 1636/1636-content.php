@@ -1,21 +1,9 @@
-
       <div class="type-1636">
-         <!-- home -->
-         <div class="container">
-            <div class="home">
-               <pre>Home  /  Vetageble</pre>
-            </div>
-            <div class="cort"></div>
-         </div>
-         <!-- end home -->
-         <!--Vegetable1  -->
          <div class="container">
             <div class="table">
                <div class="row">
-                  <div class="col-md-12">
                      <div class="col-md-3">
-                        <h4>Vegetable</h4>
-                        <ul class="dropdown">
+                        <ul class="dropdown" style="padding-left: 0px">
                         <li>
                            <a class="drop">Broccoli<i class="fa fa-plus"></i></a>
                            <ul class="down">
@@ -44,23 +32,41 @@
                         </li>
                         </ul>
                      </div>
-                     <div class="col-md-9">
-                        <h1 style="padding-bottom: 50px;">Vegetable</h1>
-                        <div class="form">
-                           <div class="col-md-3">
-                           <span>There 12 products.</span>
-                           </div>
-                           <div class="col-md-6">
-                           <span>Sort by:</span>
-                           <select style="padding:5px 100px 5px 0px; border-radius: 5px; cursor: pointer; ">
-                              <option> select 1</option>
-                              <option> select 2</option>
-                              <option> select 3</option>
+                     <h1 style="padding-bottom: 50px;">Vegetable</h1>
+                        <div class="col-md-2 col-sm-3" id="sort">
+                           <span>Size:</span>
+                           <select>
+                              <option> Size 1</option>
+                              <option> Size 2</option>
+                              <option> Size 3</option>
                            </select>
-                           </div>
+                        </div>
+                        <div class="col-md-2 col-sm-3" id="size">
+                           <span>Color:</span>
+                           <select>
+                              <option> Color 1</option>
+                              <option> Color 2</option>
+                              <option> Color 3</option>
+                           </select>
+                        </div>
+                        <div class="col-md-3 col-sm-3" id="color">
+                           <span>Compositions:</span>
+                           <select>
+                              <option> Compositions 1</option>
+                              <option> Compositions 2</option>
+                              <option> Compositions 3</option>
+                           </select>
+                        </div>
+                        <div class="col-md-2 col-sm-3" id="Compositions">
+                           <span>Sort by:</span>
+                           <select>
+                              <option> Sort 1</option>
+                              <option> Sort 2</option>
+                              <option> Sort 3</option>
+                           </select>
+                        </div>
                         </div>
                      </div>
-                  </div>
                </div>
             </div>
          </div>
@@ -69,80 +75,42 @@
          <div class="container">
             <div class="veg">
                <div class="row">
-                  <div class="col-md-12">
-                     <div class="col-md-3">
-                        <div class="pc">
-                           <h4>Filter By</h4>
-                           <button>X  clear all</button><br>
-                           <h4>Size</h4>
-                           <a href="">
-                              <div class="square"></div>
-                              <h5>S(1)</h5>
-                           </a>
-                           <a href="">
-                              <div class="square"></div>
-                              <h5>M(1)</h5>
-                           </a>
-                           <a href="">
-                              <div class="square"></div>
-                              <h5>L(1)</h5>
-                           </a>
-                           <h4>Color</h4>
-                           <a href="">
-                              <div class="coloredsquare1"></div>
-                              <h5>Green(1)</h5>
-                           </a>
-                           <a href="">
-                              <div class="coloredsquare2"></div>
-                              <h5>Yellow(1)</h5>
-                           </a>
-                           <h4>Compositions</h4>
-                           <a href="">
-                              <div class="lastsquare"></div>
-                              <h5>Collon(6)</h5>
-                           </a>
-                           <a href="">
-                              <div class="lastsquare"></div>
-                              <h5>Polyester(4)</h5>
-                           </a>
-                           <a href="">
-                              <div class="lastsquare"></div>
-                              <h5>Viscose(3)</h5>
-                           </a>
-                           <img src="images/advertising-s1.jpg" alt="PrestaShop" title="PrestaShop">
+                     <div class="no-gutter">
+                     <div class="col-md-4 col-sm-6 col-xs-12">
+                         <div class="pc1">
+                           <div id="sp0">
+                              <img src="images/beta-la-blackwarm.jpg" alt="">
+                              <h4>Beta La Blackwarm</h4>
+                              <h3>$120.00</h3>
+                           </div>
+                           <div id="sp1">
+                              <img src="images/freematex-freshdox.jpg" alt="">
+                              <h4>FreeMatex Freshdox</h4>
+                              <h3>$80.00</h3>
+                           </div>
                         </div>
                      </div>
-                     <!-- col9 chia tiep col 12 chia deu 4, chinh border right -->
-                     <div class="col-md-9">
-
-                     </div>
-                     <div class="col-md-3">
-                        <div class="pc1">
-                           <img src="images/beta-la-blackwarm.jpg" alt="" >
-                           <h4>Beta La Blackwarm</h4>
-                           <h3>$120.00</h3>
-                           <img src="images/freematex-freshdox.jpg" alt="">
-                           <h4>FreeMatex Freshdox</h4>
-                           <h3>$80.00</h3>
-                        </div>
-                     </div>
-                     <div class="col-md-3">
+                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="pc2">
-                           <img src="images/cofplus-tripplerunlax.jpg" alt=""><br>
-                           <h4>Cofplus Tripplerunlax</h4>
-                           <h3>$260.00</h3>       
+                           <div id="sp2">
+                              <img src="images/cofplus-tripplerunlax.jpg" alt=""><br>
+                              <h4>Cofplus Tripplerunlax</h4>
+                              <h3>$260.00</h3>
+                           </div>   
                         </div>
                      </div>
-                     <div class="col-md-3">
+                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="pc3">
-                           <img src="images/ecoex-una-it.jpg" alt=""><br>
-                           <h4>Ecoex Una It</h4>
-                           <h3>$220.00</h3>                       
+                           <div id="sp3">
+                              <img src="images/ecoex-una-it.jpg" alt=""><br>
+                              <h4>Ecoex Una It</h4>
+                              <h3>$220.00</h3>  
+                           </div>                     
                         </div>
+                     </div>
                      </div>
                   </div>
                </div>
             </div>
-         </div>
 
       </div>
